@@ -74,6 +74,7 @@
 ## Activity Factor Levels
 
 |Level|Labels|
+|-----|------|
 |1|WALKING|
 12|WALKING_UPSTAIRS|
 |3|WALKING_DOWNSTAIRS|
