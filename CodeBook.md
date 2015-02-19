@@ -1,17 +1,17 @@
 ## DATA DICTIONARY
 
-Activity						1	factor				Activities each subject did
-									Activity	 		Code
-									WALKING				1
-									WALKING_UPSTAIRS	2
-									WALKING_DOWNSTAIRS	3
-									SITTING				4
-									STANDING			5
-									LAYING				6
-Subject							2	integer			Range 1-30		Identifier for each subject
-mean(tBodyAccMeanXaxis)			3	numeric			Mean of tBodyAccMeanXaxis measure grouped by Activity and subject
-mean(tBodyAccMeanYaxis)			4	numeric 		Mean of tBodyAccMeanYaxis measure grouped by Activity and subject
-mean(tBodyAccMeanZaxis)			5	numeric 		Mean of tBodyAccMeanZaxis measure grouped by Activity and subject
+1. Activity						1	factor				Activities each subject did
+									*Activity	 		Code
+									*WALKING				1
+									*WALKING_UPSTAIRS	2
+									*WALKING_DOWNSTAIRS	3
+									*SITTING				4
+									*STANDING			5
+									*LAYING				6
+2. Subject							2	integer			Range 1-30		Identifier for each subject
+3. mean(tBodyAccMeanXaxis)			3	numeric			Mean of tBodyAccMeanXaxis measure grouped by Activity and subject
+4. mean(tBodyAccMeanYaxis)			4	numeric 		Mean of tBodyAccMeanYaxis measure grouped by Activity and subject
+5. mean(tBodyAccMeanZaxis)			5	numeric 		Mean of tBodyAccMeanZaxis measure grouped by Activity and subject
 mean(tBodyAccSDXaxis)			6	numeric 		Mean of tBodyAccSDXaxis measure grouped by Activity and subject
 mean(tBodyAccSDYaxis)			7	numeric			Mean of tBodyAccSDYaxis measure grouped by Activity and subject
 mean(tBodyAccSDZaxis)			8	numeric			Mean of tBodyAccSDZaxis measure grouped by Activity and subject
