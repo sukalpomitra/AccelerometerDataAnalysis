@@ -70,3 +70,13 @@
 |66|mean(fBodyBodyGyroMagSD)		| numeric |			Mean of fBodyBodyGyroMagSD measure grouped by Activity and subject |
 |67|mean(fBodyBodyGyroJerkMagMean)	| numeric |			Mean of fBodyBodyGyroJerkMagMean measure grouped by Activity and subject |
 |68|mean(fBodyBodyGyroJerkMagSD)	| numeric |			Mean of fBodyBodyGyroJerkMagSD measure grouped by Activity and subject |
+
+## Activity Factor Levels
+
+|Level|Labels|
+|1|WALKING|
+12|WALKING_UPSTAIRS|
+|3|WALKING_DOWNSTAIRS|
+|4|SITTING|
+|5|STANDING|
+|6|LAYING|
